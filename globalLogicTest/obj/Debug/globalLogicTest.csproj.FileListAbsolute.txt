@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\bin\Debug\globalLogicTest.exe.config
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\bin\Debug\globalLogicTest.exe
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\bin\Debug\globalLogicTest.pdb
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\obj\Debug\globalLogicTest.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\obj\Debug\globalLogicTest.Form1.resources
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\obj\Debug\globalLogicTest.Properties.Resources.resources
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\obj\Debug\globalLogicTest.csproj.GenerateResource.Cache
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\obj\Debug\globalLogicTest.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\obj\Debug\globalLogicTest.exe
+C:\Users\Home\source\repos\globalLogicTest\globalLogicTest\obj\Debug\globalLogicTest.pdb
